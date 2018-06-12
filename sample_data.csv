@@ -1,0 +1,6 @@
+Feature1,Feature2,Dependent_Variable
+1,100,'Y'
+2,70,'Y'
+5,80,'N'
+7,200,'Y'
+11,1200,'N'
